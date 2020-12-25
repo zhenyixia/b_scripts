@@ -1,8 +1,11 @@
 /node_modules/
 /.idea
-/index.js
 /.history
 /box.dat
 /CookieSet.json
+<<<<<<< HEAD
 /201111-README-BAK.md
 /201111-github action获取京豆.txt
+=======
+/jdCookie.js
+>>>>>>> dc75ca79f03667e4adbcc5e675c47d591871b4b4
