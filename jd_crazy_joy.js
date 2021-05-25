@@ -20,7 +20,6 @@ crazyJoy任务 = type=cron,cronexp="10 * * * *",wake-system=1,timeout=20,script-
 
 ============小火箭=========
 crazyJoy任务 = type=cron,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js, cronexpr="10 * * * *", timeout=200, enable=true
-
  */
 
 
